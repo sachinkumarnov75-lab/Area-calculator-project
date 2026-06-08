@@ -24,7 +24,7 @@ A beginner friendly Python project that calculates the area of different geometr
 ## How to Run
 
 1. Clone the repository:
-git clone <<add repository-link>>
+git clone <<add-repository-link>>
 
 2. Navigate to the project folder:
 cd area-calculator-python
