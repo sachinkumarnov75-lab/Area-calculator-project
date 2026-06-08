@@ -1,6 +1,6 @@
 # Area Calculator
 
-A beginner-friendly Python project that calculates the area of different geometric shapes through a simple menu-driven interface.
+A beginner friendly Python project that calculates the area of different geometric shapes through a simple menu-driven interface.
 
 ## Supported Shapes
 
